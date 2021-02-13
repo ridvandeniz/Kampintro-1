@@ -1,1 +1,1 @@
-# Kampintro-1
+# Metodlar
